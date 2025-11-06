@@ -1,14 +1,14 @@
 ## Hi there 👋 I'm Nhluvuko Remember Hlungwani 
 
-I'm a Computer Systems Engineering student at Vaal University of Technology
+I'm a Computer Systems Engineering student at Vaal University of Technology,
 I'm in need of Work Integrated Learning and Internship opportunities to complete my studies and gain industry experience
 
 💻🛠️ I'm a Frontend developer, Web developer, MERN Stack Full-Stack developer
 
 -- 💡 Programming languages: C++, Python, JavaScript
--- 🔗 Frontend using HTML5, CSS3, JavaScript
+-- 🔗 Frontend: HTML5, CSS3, JavaScript
 -- 🔗 Framework: React
--- ⚙️ Backend using Express.js, Node.js
+-- ⚙️ Backend: Express.js, Node.js
 -- ⚙️ Databases: SQL, MongoDB
 
 🛠️💡 Currently learning Flask for Backend development to boost my backend skills
