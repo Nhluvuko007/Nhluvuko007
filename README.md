@@ -18,7 +18,7 @@ I'm in need of Work Integrated Learning and Internship opportunities to complete
 
 💡 Find me here 💡
 📞 +27 72 045 4490
-📩 nhluvukoremeber@gmail.com
+📩 nhluvukoremember@gmail.com
 📍🌍 Located in Midrand Gauteng South Africa 
 
 Initial profile README
